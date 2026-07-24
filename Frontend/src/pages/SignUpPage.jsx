@@ -87,7 +87,7 @@ const SignUpPage = () => {
               to="/"
               className="inline-flex items-center justify-center w-12 h-12 bg-primary text-white rounded-xl font-bold text-2xl mb-4"
             >
-              H
+              S
             </Link>
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
               Create an account
