@@ -93,7 +93,7 @@ const SignUpPage = () => {
               Create an account
             </h2>
             <p className="text-gray-500 dark:text-gray-400 text-sm mt-2">
-              Join HomeFix for seamless home services
+              Join ServiceMart for seamless home services
             </p>
           </div>
 
