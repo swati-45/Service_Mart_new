@@ -2,7 +2,7 @@ import axios from "axios";
 import { getLocal } from "../utils/storage";
 
 const API_BASE_URL = `${
-  import.meta.env.VITE_API_URL
+  import.meta.env.VITE_API_URL || "https://service-mart-new-backend-o2q4.onrender.com"
 }/api`;
 
 const api = axios.create({
