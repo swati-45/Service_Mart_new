@@ -103,7 +103,7 @@ const SignUpPage = () => {
               name="name"
               type="text"
               label="Full Name"
-              placeholder="John Doe"
+              placeholder="abc"
               leftIcon={<User size={18} />}
               value={formik.values.name}
               onChange={formik.handleChange}
@@ -116,7 +116,7 @@ const SignUpPage = () => {
               name="mobile"
               type="text"
               label="Mobile Number"
-              placeholder="9876543210"
+              placeholder="0000000000"
               leftIcon={<Phone size={18} />}
               value={formik.values.mobile}
               onChange={formik.handleChange}
@@ -129,7 +129,7 @@ const SignUpPage = () => {
               name="email"
               type="email"
               label="Email Address"
-              placeholder="john@example.com"
+              placeholder="abcd@gmail.com"
               leftIcon={<Mail size={18} />}
               value={formik.values.email}
               onChange={formik.handleChange}
